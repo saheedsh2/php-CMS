@@ -1,0 +1,124 @@
+[22-Oct-2022 16:24:49 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'fmckeffi_root'@'localhost' to database 'fmckeffi_nasc' in /home/fmckeffi/nasc.fmckeffi.gov.ng/connection.php on line 8
+[22-Oct-2022 16:28:49 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'fmckeffi_root'@'localhost' to database 'fmckeffi_nasc' in /home/fmckeffi/nasc.fmckeffi.gov.ng/connection.php on line 8
+[22-Oct-2022 16:35:54 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'fmckeffi_root'@'localhost' to database 'fmckeffi_nasc' in /home/fmckeffi/nasc.fmckeffi.gov.ng/connection.php on line 8
+[22-Oct-2022 16:39:19 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'fmckeffi_root'@'localhost' to database 'fmckeffi_nasc' in /home/fmckeffi/nasc.fmckeffi.gov.ng/connection.php on line 8
+[22-Oct-2022 16:47:18 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'fmckeffi_root'@'localhost' to database 'fmckeffi_nasscom' in /home/fmckeffi/nasc.fmckeffi.gov.ng/connection.php on line 8
+[22-Oct-2022 22:42:01 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 101
+[22-Oct-2022 22:42:01 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[22-Oct-2022 22:57:42 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 101
+[22-Oct-2022 22:57:42 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[22-Oct-2022 23:12:08 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 101
+[22-Oct-2022 23:12:08 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[22-Oct-2022 23:18:08 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 122
+[22-Oct-2022 23:18:08 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 123
+[23-Oct-2022 11:11:26 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[23-Oct-2022 11:11:26 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[23-Oct-2022 11:16:38 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 101
+[23-Oct-2022 11:16:38 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[23-Oct-2022 11:16:38 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[23-Oct-2022 11:24:26 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[23-Oct-2022 11:24:26 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[23-Oct-2022 11:42:14 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 101
+[23-Oct-2022 11:42:14 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[23-Oct-2022 11:42:14 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[23-Oct-2022 12:23:10 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[23-Oct-2022 12:23:10 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[23-Oct-2022 14:01:11 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[23-Oct-2022 14:01:12 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[23-Oct-2022 14:03:43 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[23-Oct-2022 14:03:43 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[23-Oct-2022 14:40:58 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[23-Oct-2022 14:40:58 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[23-Oct-2022 19:15:53 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmckeffi/nasc.fmckeffi.gov.ng/header.php:1) in /home/fmckeffi/nasc.fmckeffi.gov.ng/login.php on line 12
+[23-Oct-2022 19:16:01 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmckeffi/nasc.fmckeffi.gov.ng/header.php:1) in /home/fmckeffi/nasc.fmckeffi.gov.ng/login.php on line 12
+[24-Oct-2022 08:07:48 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 101
+[24-Oct-2022 08:07:48 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[24-Oct-2022 08:07:48 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[24-Oct-2022 08:29:41 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[24-Oct-2022 08:29:41 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[26-Oct-2022 09:42:34 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[26-Oct-2022 09:42:34 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[11-Nov-2022 10:40:21 Africa/Lagos] PHP Warning:  include(head_1.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/about.php on line 1
+[11-Nov-2022 10:40:21 Africa/Lagos] PHP Warning:  include(head_1.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/about.php on line 1
+[11-Nov-2022 10:40:21 Africa/Lagos] PHP Warning:  include(): Failed opening 'head_1.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmckeffi/nasc.fmckeffi.gov.ng/about.php on line 1
+[11-Nov-2022 10:40:21 Africa/Lagos] PHP Warning:  include(header_3.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/about.php on line 4
+[11-Nov-2022 10:40:21 Africa/Lagos] PHP Warning:  include(header_3.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/about.php on line 4
+[11-Nov-2022 10:40:21 Africa/Lagos] PHP Warning:  include(): Failed opening 'header_3.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmckeffi/nasc.fmckeffi.gov.ng/about.php on line 4
+[11-Nov-2022 10:40:21 Africa/Lagos] PHP Warning:  include(contact_5.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/about.php on line 6
+[11-Nov-2022 10:40:21 Africa/Lagos] PHP Warning:  include(contact_5.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/about.php on line 6
+[11-Nov-2022 10:40:21 Africa/Lagos] PHP Warning:  include(): Failed opening 'contact_5.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmckeffi/nasc.fmckeffi.gov.ng/about.php on line 6
+[20-Nov-2022 10:23:23 Africa/Lagos] PHP Parse error:  syntax error, unexpected end of file in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 160
+[20-Nov-2022 10:23:32 Africa/Lagos] PHP Parse error:  syntax error, unexpected end of file in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 160
+[20-Nov-2022 10:24:36 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 18
+[20-Nov-2022 10:24:36 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 20
+[20-Nov-2022 10:24:58 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 18
+[20-Nov-2022 10:24:58 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 20
+[20-Nov-2022 10:27:15 Africa/Lagos] PHP Warning:  include(./admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:27:15 Africa/Lagos] PHP Warning:  include(./admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:27:15 Africa/Lagos] PHP Warning:  include(): Failed opening './admin/config/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:27:15 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 19
+[20-Nov-2022 10:27:15 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 21
+[20-Nov-2022 10:27:23 Africa/Lagos] PHP Warning:  include(./admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:27:23 Africa/Lagos] PHP Warning:  include(./admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:27:23 Africa/Lagos] PHP Warning:  include(): Failed opening './admin/config/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:27:23 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 19
+[20-Nov-2022 10:27:23 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 21
+[20-Nov-2022 10:29:39 Africa/Lagos] PHP Warning:  include(./admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:29:39 Africa/Lagos] PHP Warning:  include(./admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:29:39 Africa/Lagos] PHP Warning:  include(): Failed opening './admin/config/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:29:39 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 19
+[20-Nov-2022 10:29:39 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 21
+[20-Nov-2022 10:30:06 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:30:06 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:30:06 Africa/Lagos] PHP Warning:  include(): Failed opening '/admin/config/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:30:06 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 19
+[20-Nov-2022 10:30:06 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 21
+[20-Nov-2022 10:31:55 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:31:55 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:31:55 Africa/Lagos] PHP Warning:  include(): Failed opening '/admin/config/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:31:55 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 19
+[20-Nov-2022 10:31:55 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 21
+[20-Nov-2022 10:31:59 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:31:59 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:31:59 Africa/Lagos] PHP Warning:  include(): Failed opening '/admin/config/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:31:59 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 19
+[20-Nov-2022 10:31:59 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 21
+[20-Nov-2022 10:36:29 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:36:29 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:36:29 Africa/Lagos] PHP Warning:  include(): Failed opening '/admin/config/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:36:29 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 19
+[20-Nov-2022 10:36:29 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 21
+[20-Nov-2022 10:37:02 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:37:02 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[20-Nov-2022 10:37:02 Africa/Lagos] PHP Warning:  include(): Failed opening '/admin/config/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[21-Nov-2022 09:04:44 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[21-Nov-2022 09:04:44 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[21-Nov-2022 09:04:44 Africa/Lagos] PHP Warning:  include(): Failed opening '/admin/config/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[21-Nov-2022 09:04:44 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 19
+[21-Nov-2022 09:04:44 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 21
+[21-Nov-2022 09:04:48 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[21-Nov-2022 09:04:48 Africa/Lagos] PHP Warning:  include(/admin/config/dbconfig.php): failed to open stream: No such file or directory in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[21-Nov-2022 09:04:48 Africa/Lagos] PHP Warning:  include(): Failed opening '/admin/config/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 1
+[21-Nov-2022 10:08:01 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'fmckeffi_root'@'localhost' (using password: YES) in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 8
+[21-Nov-2022 10:08:01 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 39
+[21-Nov-2022 10:08:01 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 41
+[21-Nov-2022 10:08:31 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'fmckeffi_root'@'localhost' (using password: YES) in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 8
+[21-Nov-2022 10:08:31 Africa/Lagos] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 39
+[21-Nov-2022 10:08:31 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmckeffi/nasc.fmckeffi.gov.ng/navbar.php on line 41
+[23-Nov-2022 18:52:10 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[23-Nov-2022 18:52:10 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[23-Nov-2022 18:54:12 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 101
+[23-Nov-2022 18:54:12 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[23-Nov-2022 18:54:12 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[23-Nov-2022 18:56:00 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 101
+[23-Nov-2022 18:56:00 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 102
+[23-Nov-2022 18:56:00 Africa/Lagos] PHP Warning:  mkdir(): File exists in /home/fmckeffi/nasc.fmckeffi.gov.ng/action.php on line 103
+[24-Nov-2022 11:31:46 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/fmckeffi/nasc.fmckeffi.gov.ng/category.php on line 61
+[24-Nov-2022 12:33:04 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/fmckeffi/nasc.fmckeffi.gov.ng/header.php on line 9
+[24-Nov-2022 12:42:21 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/fmckeffi/nasc.fmckeffi.gov.ng/category.php on line 26
+[24-Nov-2022 12:43:03 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/fmckeffi/nasc.fmckeffi.gov.ng/category.php on line 26
+[24-Nov-2022 12:43:46 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/fmckeffi/nasc.fmckeffi.gov.ng/category.php on line 26
+[24-Nov-2022 12:47:27 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/fmckeffi/nasc.fmckeffi.gov.ng/category.php on line 26
+[24-Nov-2022 12:47:30 Africa/Lagos] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/fmckeffi/nasc.fmckeffi.gov.ng/category.php on line 26
+[28-Nov-2022 11:09:36 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'post' (T_STRING) in /home/fmckeffi/nasc.fmckeffi.gov.ng/post.php on line 31
+[28-Nov-2022 11:18:14 Africa/Lagos] PHP Parse error:  syntax error, unexpected 'post' (T_STRING) in /home/fmckeffi/nasc.fmckeffi.gov.ng/post.php on line 33
