@@ -28,7 +28,7 @@ if(!$con)
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>NASC - Index</title>
+  <title>Saheed Shittu - Index</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -103,14 +103,14 @@ if(!$con)
   <section id="topbar" style="background-color: green; color: #fff" class="d-flex align-items-center">
     <div  class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope d-flex align-items-center" style="color: #fff"><a href="mailto:contact@example.com" style="color: #fff">info@nasc.gov.ng</a></i>
-        <i class="bi bi-phone d-flex align-items-center ms-4" style="color: #fff"><span style="color: #fff">+234 809 000 00000</span></i>
+        <i class="bi bi-envelope d-flex align-items-center" style="color: #fff"><a href="mailto:contact@example.com" style="color: #fff">saheedsh2@gmail.com</a></i>
+        <i class="bi bi-phone d-flex align-items-center ms-4" style="color: #fff"><span style="color: #fff">+44 07979144123</span></i>
       </div>
       <div class="social-links d-none d-md-flex align-items-center">
-        <a href="#" class="twitter" style="color: #fff"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook" style="color: #fff"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram" style="color: #fff"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin" style="color: #fff"><i class="bi bi-linkedin"></i></i></a>
+        <a href="https://www.twitter.com/Major_Shittu" class="twitter" style="color: #fff"><i class="bi bi-twitter"></i></a>
+        <a href="https://www.facebook.com/Shittu Mohammed Sayeid" class="facebook" style="color: #fff"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.instagram.com/shittusayeid" class="instagram" style="color: #fff"><i class="bi bi-instagram"></i></a>
+        <a href="https://www.linkedin.com/MohammedSaheedShittu" class="linkedin" style="color: #fff"><i class="bi bi-linkedin"></i></i></a>
       </div>
     </div>
   </section>

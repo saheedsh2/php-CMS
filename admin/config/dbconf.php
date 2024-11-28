@@ -1,10 +1,10 @@
 <?php
 
 
-$host = 'localhost:3306';
-$username = 'fmckeffi_root';
-$password = 'weam7ohf1984@';
-$database = 'fmckeffi_nasscomm';
+$host = 'localhost';
+$username = 'root';
+$password = '';
+$database = 'nasc';
 
 $con = mysqli_connect($host,$username,$password,$database);
 
